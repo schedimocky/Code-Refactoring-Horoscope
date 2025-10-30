@@ -1,0 +1,2 @@
+# Project Update
+Introduce GraphQL subscription for live data
